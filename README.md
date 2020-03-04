@@ -21,7 +21,7 @@ Technology &amp; Tools I currently use as a Developer
 
 # IDEs & Editors
 * PhpStorm
-* IntellIj
+* Intellij
 
 # Other Development Tools
 * DBeaver
