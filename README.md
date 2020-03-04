@@ -15,7 +15,7 @@ Technology &amp; Tools I currently use as a Developer
 
 ## Servers & CI/CD Tools
 * MySQL
-8 PostgreSQL
+* PostgreSQL
 * NodeJs
 * Heroku
 
