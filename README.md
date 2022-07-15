@@ -25,12 +25,6 @@ Technology &amp; Tools I currently use as a Developer
 # IDEs & Editors
 * jetBrains
 
-# Other Development Tools
-* DBeaver
-* Postman
-* FileZilla
-* HomeBres
-
 # Desktop Apps
 * SourceTree
 * Slack
@@ -39,6 +33,11 @@ Technology &amp; Tools I currently use as a Developer
 * Jira Atlasian
 * CLIs
 * Homebrew
+
+# Other Development Tools
+* DBeaver
+* Postman
+* FileZilla
 
 # Freelancer
 * Upwork
