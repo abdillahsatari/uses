@@ -13,27 +13,30 @@ Technology &amp; Tools I currently use as a Developer
 * Angular
 * Grails
 
-## Servers & CI/CD Tools
-* MySQL
-* PostgreSQL
+## Servers
+* Apache
 * NodeJs
-* Heroku
+
+## Databases
+* MySql
+* PostgreSQL
+* MongoDb
 
 # IDEs & Editors
-* PhpStorm
-* Intellij
+* jetBrains
 
 # Other Development Tools
 * DBeaver
 * Postman
 * FileZilla
+* HomeBres
 
 # Desktop Apps
 * SourceTree
 * Slack
 * Hubstaff
 * Upwork
-* Jira Software
+* Jira Atlasian
 * CLIs
 * Homebrew
 
