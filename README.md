@@ -1,10 +1,10 @@
-Technology &amp; Tools I currently use as a Developer
+Technology &amp; Tools I've experienced with as a Developer
 
 ## Programming Languages
 * PHP
+* JavaScript
 * Groovy
 * JAVA
-* JavaScript
 * C++
 
 ## Frameworks
@@ -24,6 +24,7 @@ Technology &amp; Tools I currently use as a Developer
 
 # IDEs & Editors
 * jetBrains
+* VsCode
 
 # Desktop Apps
 * SourceTree
@@ -38,6 +39,8 @@ Technology &amp; Tools I currently use as a Developer
 * DBeaver
 * Postman
 * FileZilla
+* Laragon
+* HeidiSql
 
 # Freelancer
 * Upwork
